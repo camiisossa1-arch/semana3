@@ -1,0 +1,4 @@
+Git: Sistema de control de versiones que permite registrar cambios en los archivos de un proyecto.
+Repositorio: Lugar donde se almacenan los archivos y el historial de cambios del proyecto.
+Commit: Registro de un cambio guardado en el repositorio.
+Push: Enviar los cambios locales al repositorio remoto en GitHub.

@@ -1,0 +1,3 @@
+Esta semana aprendí a usar Git para controlar versiones de mis archivos.
+Aprendi los comandos git add, git commit y git push para subir cambios a GitHub.
+También entendí que es un repositorio y para que sirve guardar los cambios  
